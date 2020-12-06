@@ -1,0 +1,10 @@
+Lettuce	0.99	per ounce	20	0.50	rishi	400
+Celery	1.45	per pound of Celery	60	0.20	rishi	250
+Avocado	1.19	per avocado	100	0.25	rishi	250
+Cauliflower	1.99	per pound	30	0.40	rishi	350
+Apple	1.19	per apple	32	0.60	rishi	100
+Bananas	0.99	per pound	20	0.40	rishi	200
+Oranges	0.99	per pound	20	0.20	rishi	300
+Blackberries	2.99	per pack	30	0.20	rishi	40
+Strawberry	3.99	per ounce	20	0.50	rishi	400
+Mango	1.99	per mango	30	0.50	rishi	400

@@ -1,0 +1,6 @@
+Snickers	1.99	One Snickers Bar	50	0.50	Jim	400
+Hershey's	2.19	One Bar of Hersheys Dark Chocolate!	30	0.60	Jim	150
+KitKat		10.99	One Large bar of Kit-Kats	40	0.95	Jim	50
+Twix		4.99	Pack of Twix Bars	20	0.48	Jim	350
+Crunch		3.99	Crunch Bar	10	0.20	Jim	150
+ProteinBar	4.99	High Protein Candy	67	0.20	Jim	500

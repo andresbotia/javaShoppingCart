@@ -1,0 +1,4 @@
+Water	3.99	Fresh Aquafina Water	20	0.80	Daniel	400
+Milk	2.45	One Gallon of Milk	30	0.60	Daniel	250
+Redbull	5.99	Six pack of redbull	40	0.65	Daniel	150
+Juice	2.99	Apple or Orange Juice	30	0.40	Daniel	350
